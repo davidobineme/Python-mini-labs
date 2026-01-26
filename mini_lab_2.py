@@ -1,0 +1,10 @@
+cat_name = (input())
+
+print("      /\\_/\\")
+print(" /\\  / o o \\")
+print("//\\\\ \\~(*)~/")
+print("`  \\/   ^ /")
+print("   | \\|| ||")
+print("   \\ '|| ||")
+print("    \\)()-())")
+print("My cat " + cat_name)
